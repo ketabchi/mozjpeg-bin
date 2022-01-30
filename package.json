@@ -1,9 +1,9 @@
 {
-	"name": "mozjpeg",
+	"name": "mozjpeg-envbin",
 	"version": "8.0.0",
-	"description": "mozjpeg wrapper that makes it seamlessly available as a local dependency",
+	"description": "mozjpeg wrapper that makes it seamlessly available as a local dependency with available environment variable for prebuilt download",
 	"license": "MIT",
-	"repository": "imagemin/mozjpeg-bin",
+	"repository": "ketabchi/mozjpeg-bin",
 	"type": "module",
 	"exports": "./index.js",
 	"bin": "cli.js",
